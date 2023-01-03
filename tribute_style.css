@@ -1,0 +1,77 @@
+img {
+    display: block;
+    max-width:auto;
+    max-height:350px;
+    width: auto;
+    height: auto;
+}
+
+html{
+    background-image: linear-gradient(180deg, orange, white, green);
+    background-repeat: no-repeat;
+    height: auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#img-div{
+    font-size: 1.2rem;
+    margin: 20px 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+}
+
+#tribute-info{
+    text-decoration: underline;
+}
+
+img{
+    border: 5px double black;
+    margin: 0 auto;
+    border-radius: 20px;
+    border-color: aliceblue;
+}
+
+footer > p{
+    font-size: 20px;
+}
+
+a:hover{
+    color: burlywood;
+}
+
+.timeline{
+    text-align: center;
+    font-size: 26px;
+    border: 2px solid black;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: auto;
+}
+
+ul.events{
+    display: inline-block;
+    text-align: left;
+    font-size: 23px;
+    line-height: 1.5em;
+}
+
+a{
+    text-decoration: none;    
+}
+
+#img-caption{
+    text-align: center;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
